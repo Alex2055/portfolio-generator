@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "prompt",
+  "main": "app.js",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex2055/portfolio-generator.git"
+  },
+  "keywords": [
+    "alex"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex2055/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Alex2055/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
